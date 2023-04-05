@@ -1,0 +1,163 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+.hero {
+    padding-top: 200px;
+    @media (max-width: )
+}
+.kataSewa {
+    position: absolute;
+    width: 568px;
+    height: 108px;
+    left: 158px;
+    top: 177px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 150%;
+/* or 54px */
+
+    color: #000000;
+}
+.kataSelamatDatang {
+    position: absolute;
+width: 468px;
+height: 60px;
+left: 158px;
+top: 301px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+
+color: #000000;
+}
+.sewamobil {
+    box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 10px;
+
+position: absolute;
+width: 169px;
+height: 46px;
+left: 158px;
+top: 377px;
+
+/* Primary/LimeGreen/04
+
+5CB85F
+*/
+background: #5CB85F;
+border-radius: 0.5px;
+}
+.imgCar {
+    position: absolute;
+    width: 704px;
+    height: 407px;
+    left: 758px;
+    top: 97px;
+}
+
+.NavBar {
+    /* navigation */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+position: absolute;
+width: 600px;
+height: 20px;
+left: 864px;
+top: 34px;
+}
+
+.imgServices {
+    /* img_service */
+
+
+position: absolute;
+width: 459px;
+height: 428px;
+left: 228px;
+top: 604px;
+
+}
+
+.Gallery {
+
+    /* desc */
+
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+
+position: absolute;
+width: 468px;
+height: 376px;
+left: 787px;
+top: 640px;
+
+
+}
+
+.BestRental {
+    /* Frame 105 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 309px;
+height: 184px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.imgChekList {
+    /* Group 53 */
+width: 2px;
+height: 2px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+/**/
